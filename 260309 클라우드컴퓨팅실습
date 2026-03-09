@@ -1,0 +1,15 @@
+오토프로비저닝
+
+아예 컴퓨터 다시 지우고 만들기
+server1
+192.168.100.10
+192.168.100.2
+8.8.8.8
+root (계정)
+password
+
+rocky linux
+목록에 없습? -> 사용자이름  
+root password 로그인
+
+ubunto linux
