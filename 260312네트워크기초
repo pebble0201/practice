@@ -54,3 +54,7 @@ echo [W-01 END]	>>[win]%computername%.txt
 echo ==================================================		>>[win]%computername%.txt
 
 cmd에서 실행해보기
+
+
+
+계정관리 스크립트 짜오기 과제 ... ^^ ...
