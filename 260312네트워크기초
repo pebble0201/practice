@@ -40,3 +40,17 @@
 
 데이터단위
 비트 바이트 킬로 메가 기가 테라바이트
+
+
+
+
+echo [W-01 Accounts: Rename administrator account]  >>[win]%computername%.txt
+echo #net user  >>[win]%computername%.txt 
+net user >>[win]%computername%.txt
+echo #net user Administrator  >>[win]%computername%.txt
+net user Administrator  >>[win]%computername%.txt
+echo.	>>[win]%computername%.txt
+echo [W-01 END]	>>[win]%computername%.txt
+echo ==================================================		>>[win]%computername%.txt
+
+cmd에서 실행해보기
