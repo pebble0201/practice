@@ -46,7 +46,7 @@
 
 echo [W-01 Accounts: Rename administrator account]  >>[win]%computername%.txt
 echo #net user  >>[win]%computername%.txt 
-net user >>[win]%computername%.txt
+※ 여기가 중요 ! net user >>[win]%computername%.txt
 echo #net user Administrator  >>[win]%computername%.txt
 net user Administrator  >>[win]%computername%.txt
 echo.	>>[win]%computername%.txt
